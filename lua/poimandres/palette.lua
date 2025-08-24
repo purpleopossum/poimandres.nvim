@@ -18,7 +18,7 @@ local variants = {
     background1 = '#303340',
     background2 = '#1B1E28',
     background3 = '#171922',
-    text = '#E4F0FB',
+    text = '#7870AB',
     white = '#FFFFFF',
     none = 'NONE',
   },
